@@ -1,5 +1,6 @@
 # Cryptocurrency-Market-Sentiments-Analysis-Using-AI
 Aims:
+
 This project aims to develop a cryptocurrency analysis mobile application for beginners and amateur investors. The application provides a price tracker function and related information about the cryptocurrency. Moreover, to help investors predict a cryptocurrency's future trends or price fluctuation, it should give a trading signal base on analyzing the sentiment of related crypto tweets by implementing some machine learning technique. Also we need to design an approach to give the trading signal of the cryptocurrency to the users based on the analyzed data.
 
 Objectives:
